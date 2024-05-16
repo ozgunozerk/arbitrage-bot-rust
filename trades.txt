@@ -1,0 +1,99 @@
+Bought 0.06622474564978328 BTC from Aevo at price 3019.7, with cost: 199.97886443865056. 
+
+                Sold 0.06622474564978328 BTC from DyDx at price 3020.019149, with cost: 199.99999999999997. 
+
+                Profit: 0.021135561349410636 
+
+                Total profit: 0.021135561349410636 
+
+                DyDx Balance: 1200 
+
+                Aevo Balance: 800.0211355613494 
+Bought 0.06622474564978328 BTC from Aevo at price 3019.7, with cost: 199.97886443865056. 
+
+                Sold 0.06622474564978328 BTC from DyDx at price 3020.019149, with cost: 199.99999999999997. 
+
+                Profit: 0.021135561349410636 
+
+                Total profit: 0.04227112269882127 
+
+                DyDx Balance: 1400 
+
+                Aevo Balance: 600.0422711226988 
+Bought 0.06620543546625178 BTC from DyDx at price 3020.019149, with cost: 199.94168287596412. 
+
+                Sold 0.06620543546625178 BTC from Aevo at price 3020.9, with cost: 200. 
+
+                Profit: 0.05831712403588085 
+
+                Total profit: 0.10058824673470212 
+
+                DyDx Balance: 1200.058317124036 
+
+                Aevo Balance: 800.0422711226988 
+Bought 0.06620543546625178 BTC from DyDx at price 3020.019149, with cost: 199.94168287596412. 
+
+                Sold 0.06620543546625178 BTC from Aevo at price 3020.9, with cost: 200. 
+
+                Profit: 0.05831712403588085 
+
+                Total profit: 0.15890537077058298 
+
+                DyDx Balance: 1000.1166342480718 
+
+                Aevo Balance: 1000.0422711226988 
+Bought 0.06621420294653203 BTC from DyDx at price 3020.019149, with cost: 199.96816083429897. 
+
+                Sold 0.06621420294653203 BTC from Aevo at price 3020.5, with cost: 200. 
+
+                Profit: 0.031839165701029515 
+
+                Total profit: 0.1907445364716125 
+
+                DyDx Balance: 800.1484734137729 
+
+                Aevo Balance: 1200.0422711226988 
+Bought 0.06621420294653203 BTC from DyDx at price 3020.019149, with cost: 199.96816083429897. 
+
+                Sold 0.06621420294653203 BTC from Aevo at price 3020.5, with cost: 200. 
+
+                Profit: 0.031839165701029515 
+
+                Total profit: 0.222583702172642 
+
+                DyDx Balance: 600.1803125794739 
+
+                Aevo Balance: 1400.0422711226988 
+Bought 0.0662185875575274 BTC from DyDx at price 3020.019149, with cost: 199.9814024434659. 
+
+                Sold 0.0662185875575274 BTC from Aevo at price 3020.3, with cost: 200. 
+
+                Profit: 0.018597556534103887 
+
+                Total profit: 0.2411812587067459 
+
+                DyDx Balance: 400.19891013600807 
+
+                Aevo Balance: 1600.0422711226988 
+Bought 0.0662185875575274 BTC from DyDx at price 3020.019149, with cost: 199.9814024434659. 
+
+                Sold 0.0662185875575274 BTC from Aevo at price 3020.3, with cost: 200. 
+
+                Profit: 0.018597556534103887 
+
+                Total profit: 0.2597788152408498 
+
+                DyDx Balance: 200.21750769254217 
+
+                Aevo Balance: 1800.0422711226988 
+Bought 0.0662185875575274 BTC from DyDx at price 3020.019149, with cost: 199.9814024434659. 
+
+                Sold 0.0662185875575274 BTC from Aevo at price 3020.3, with cost: 200. 
+
+                Profit: 0.018597556534103887 
+
+                Total profit: 0.27837637177495367 
+
+                DyDx Balance: 0.2361052490762745 
+
+                Aevo Balance: 2000.0422711226988 
